@@ -1,32 +1,50 @@
-# Money Printer Script
+# [License Agreement for Money Printer Script](https://github.com/PUSCRIPTS/MONEY-PRINTER-YAY?tab=License-1-ov-file)
 
-**Author:** PinguinDEV  
-**Date:** October 21, 2024  
+**Effective Date:** October 21, 2024  
+**Owner:** PinguinDEV (Only one PinguinDEV, username: 4d04)
 
-## Description
+## 1. Usage
+This script can only be used if you have paid for it or have gained access/permission from the owner, PinguinDEV. Users are strictly prohibited from stealing, copying, modifying, or publishing this script in any form.
 
-The **Money Printer Script** is a Roblox script designed to automate the process of farming money printers while you are AFK (Away From Keyboard). This script enhances your gameplay by allowing you to generate in-game currency automatically.
+## 2. Installation
+Buy the script in the Discord, then you will be added to a whitelist by me, PinguinDEV. You can then use a mobile executor or emulator to execute it.
 
-## Features
+## 3. Instructions
+Go into any server in Ohio, execute the script, and then go AFK or you can watch.
 
-- Automated interaction with money printers.
-- AFK functionality to farm currency continuously.
-- Teleportation to different servers for optimal farming.
+## 4. Support
+For any support issues, contact me through Discord:
+- **Display Name:** PinguinDEV
+- **Username:** 4d04
+- [PinguinDEV Discord](https://www.discord.gg/kB3mbvhR2C).
 
-## License
+## 5. Refund Policy
+- **No Refunds:** Once purchased, there are no refunds. If you find any bugs or issues, you must notify the owner/developer, PinguinDEV.
+- **Lifetime Access:** Users with lifetime access can use the script indefinitely.
+- **Monthly Access:** Monthly users must renew their access regularly.
 
-This software is not free of charge. Users may utilize this script only if they have received explicit permission from the author or have purchased access.
+## 6. Updates
+The script may enter an updating mode, during which it will be offline for a period until updated. Users must check the Discord for updates on whether the script is online, updating, or patched.
 
-## Usage
+## 7. User Responsibilities
+Users are responsible for:
+- Following all terms outlined in this license agreement.
+- Ensuring they understand the risks associated with using the script.
+- Complying with all applicable laws and regulations.
+- Reporting any bugs or issues to the owner/developer, PinguinDEV.
+- Understanding that if they get banned or encounter issues with the owner of Ohio, it is not the responsibility of PinguinDEV.
 
-1. **Installation**: 
-   - Buy the script on Discord. Once purchased, you will be added to a whitelist by me, PinguinDEV.
-   - Use a mobile or an emulator to execute the script.
+## 8. Termination
+If you violate any terms of this agreement, PinguinDEV reserves the right to terminate your access to the script without notice.
 
-2. **Instructions**:
-   - Join any server in Roblox Ohio.
-   - Execute the script and go AFK to start farming.
+## 9. Enforcement
+If any unauthorized use or distribution of the script occurs, PinguinDEV reserves the right to take legal action to protect their intellectual property.
 
-## Support
+## 10. Contact Information
+Users can only contact me through my Discord:
+- **Display Name:** PinguinDEV
+- **Username:** 4d04
+- [PinguinDEV Discord](https://www.discord.gg/kB3mbvhR2C).
 
-For support or inquiries, please join my Discord: [PinguinDEV Discord](https://www.discord.gg/kB3mbvhR2C).
+## 11. Video Creation
+You are permitted to create videos showcasing the use of this script, but you must credit PinguinDEV at the end or within the video, including the YouTube channel link: [PinguinDEV YouTube](https://www.youtube.com/@PinguinDevXYZ).
