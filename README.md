@@ -1,4 +1,4 @@
-# [License Agreement for Money Printer Script (Must Read!)](https://github.com/PUSCRIPTS/MONEY-PRINTER-YAY?tab=License-1-ov-file)
+# [Money Printer Script License Agreement (Must Read!)](https://github.com/PUSCRIPTS/MONEY-PRINTER-YAY?tab=License-1-ov-file)
 
 **Effective Date:** October 21, 2024  
 **Owner:** PinguinDEV (Only one PinguinDEV, username: 4d04)
